@@ -6,23 +6,5 @@ git commit -m ""
 git log
 Git diff <filename>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Privatebranch2
 Some Illustrations of branches
