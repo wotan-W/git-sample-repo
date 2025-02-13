@@ -1,5 +1,5 @@
 git status -> prints the status of the Git Repository
-git init
+git init -> initializes Git Repository
 git config --global user.name "Lets kode it"
 git add
 git commit -m ""
