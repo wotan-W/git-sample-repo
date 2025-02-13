@@ -8,3 +8,6 @@ Git diff <filename>
 
 Private Branch 1
 Some Scenarios
+
+Privatebranch2
+Some Illustrations of branches
